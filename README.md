@@ -24,6 +24,8 @@ run `python -m pip install -r requirements.txt` to install all the python requir
 
 run the program using the command `python app.py`
 
+#### **Misc**
+
 you can create and drop data base using `flask db_create` and `flask db_drop` if you want to clear db data
 
 if you are not running in `localhost:5000` you can change the local server link in the `\React Front End\src\data\rest_connection.js`
