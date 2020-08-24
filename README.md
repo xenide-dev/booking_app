@@ -1,4 +1,4 @@
-# **Technical Assesment**
+# **Technical Assessment**
 Technical Assessment for Olt St. Labs
 
 ### **Installation**
