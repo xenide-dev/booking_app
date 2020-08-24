@@ -1,5 +1,5 @@
 # **Technical Assesment**
-Technical Assesment for Olt St. Labs
+Technical Assessment for Olt St. Labs
 
 ### **Installation**
 
