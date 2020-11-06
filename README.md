@@ -1,5 +1,5 @@
 # **Technical Assessment**
-Technical Assessment for Olt St. Labs
+Booking App
 
 ### **Installation**
 
