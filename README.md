@@ -3,7 +3,7 @@ A Booking Application created using REACT framework as front-end and python FLAS
 
 ![](https://github.com/jaspernicholfabella/booking_app/blob/master/Screenshot/1.PNG)
 
-### **Functionality**
+## **Functionality**
 
 *Booking Appointments*
 * Date and Time for Appointments (from and to)
@@ -22,7 +22,7 @@ A Booking Application created using REACT framework as front-end and python FLAS
 
 
 
-### **Installation**
+## **Installation**
 
 ### **React**
 go to the directory where you clone the repo using the terminal, go to react front end and
