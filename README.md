@@ -1,5 +1,5 @@
-# **Technical Assessment**
-Booking App
+# **Booking App**
+A Booking Application created using REACT framework as front-end and python FLASK as backend.
 
 ### **Installation**
 
