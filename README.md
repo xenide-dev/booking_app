@@ -1,7 +1,9 @@
 # **Booking App**
 A Booking Application created using REACT framework as front-end and python FLASK as backend.
 
-## **Functionality**
+![](https://github.com/jaspernicholfabella/booking_app/blob/master/Screenshot/1.PNG)
+
+### **Functionality**
 
 *Booking Appointments*
 * Date and Time for Appointments (from and to)
@@ -17,11 +19,6 @@ A Booking Application created using REACT framework as front-end and python FLAS
 *Appointment Rules*
 * No overbooking of appointments should be allowed
 * Appointments are only allowed from 9:00AM - 5:000 PM Mon - Sat
-
-![](https://github.com/jaspernicholfabella/booking_app/blob/master/Screenshot/1.PNG)
-
-
-
 
 
 
